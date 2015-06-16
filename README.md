@@ -5,7 +5,7 @@ The homework and projects in NTHU
 <b>Parallel Programming: (Graduate Program)</b>
 
 Testing System: On Quanta cluster 11 nodes, each one has 12 processes, 96GB memory with 4TB storage space.
-Each project must measure and analyze the performance and scalability of your program.
+Each project must measure and analyze the performance and scalability of implemented programs.
 
 <b>HW_1. Basic odd-even sort and advanced odd-even sort :</b> implementing basic and advanced odd-even sort with MPI.
 
@@ -56,7 +56,7 @@ Each project must measure and analyze the performance and scalability of your pr
 <b>====================================================</b></p>
 <b>Computer Architecture:</b>
 
-<b>HW_1. MPIS Single Cycle Simulator:</b> Implement a single-cycle, functional processor simulator according to the reduced MIPS R3000 ISA. 
+<b>HW_1. MIPS Single Cycle Simulator:</b> Implement a single-cycle, functional processor simulator according to the reduced MIPS R3000 ISA. 
 
 <b>HW_2. MIPS Pipeline Simulator:</b> Implement a pipelined, functional processor simulator 
 
