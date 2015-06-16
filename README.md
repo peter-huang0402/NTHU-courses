@@ -27,6 +27,7 @@ HW_4. Blocked All-Pairs Shortest Paths Algorithm in CUDA:
         implement program using multiple GPUs on multi nodes by MPI.
    4.3. Multi-GPU in OpenMP version: 
         implement program using multiple GPUs on multi nodes by OpenMP.
+  
 ========================================================================================
 Computer Architecture:
 
@@ -37,6 +38,7 @@ HW_2. MIPS Pipeline Simulator: Implement a pipelined, functional processor simul
 HW_3. MIPS Cache Memory Pagetable Simulator: a simulator with memory hierarchy, Translation-Lookaside Buffer (TLB), virtual page table and cache mechanism with write back and write through policy. 
 
 HW_Tools. Assembler and disassembler for Simulator.
+
 ========================================================================================
 Operation System:
 
@@ -49,4 +51,5 @@ HW3. Virtual Memory Management in CUDA: implementing GPU virtual-memory system w
 HW_4. File System Management in CUDA: Implement a simple file system in a kernel function of GPU that have single thread, limit global memory as volume.
 
 HW_5. I/O System DMA (Kernel-mode) device simulator: keyboard device simulator in Kernel-Mode with blocking and non-blocking I/O operation.
+
 ========================================================================================
