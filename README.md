@@ -10,11 +10,11 @@ Each project must measure and analyze the performance and scalability of your pr
 HW_1. Basic odd-even sort and advanced odd-even sort : implementing basic and advanced odd-even sort with MPI.
 
 HW_2. Single Roller Coaster Car Problem And N-body Problem</p>
-  Single Roller Coaster Car Problem  : 
-  2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.
-  N-body Problem:
-  2.2 Parallel N-body's sequential code by using Pthread and OpenMP.
-  2.3 Implement Barnes-Hut Algorithm by Pthread: Must parallelizing building tree phase and simulation phase
+  Single Roller Coaster Car Problem  : </p>
+  2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</p>
+  N-body Problem:</p>
+  2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</p>
+  2.3 Implement Barnes-Hut Algorithm by Pthread: Must parallelizing building tree phase and simulation phase</p>
 
 HW_3. Manderlbrot Set Problem: Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.
    3.1. distributed memory in MPI 
