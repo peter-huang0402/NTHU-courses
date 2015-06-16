@@ -1,7 +1,7 @@
 <b># NTHU-courses</b>
 The homework and projects in NTHU
 
-========================================================================================
+<b>========================================================================================</b>
 <b>Parallel Programming: (Graduate Program)</b>
 
 Testing System: On Quanta cluster 11 nodes, each one has 12 processes, 96GB memory with 4TB storage space.
@@ -29,7 +29,7 @@ Each project must measure and analyze the performance and scalability of your pr
    4.3. Multi-GPU in OpenMP version:</p> 
         implement program using multiple GPUs on multi nodes by OpenMP.</p>
   
-========================================================================================
+<b>========================================================================================</b>
 <b>Computer Architecture:</b>
 
 <b>HW_1. MPIS Single Cycle Simulator:</b> Implement a single-cycle, functional processor simulator according to the reduced MIPS R3000 ISA. 
@@ -40,7 +40,7 @@ Each project must measure and analyze the performance and scalability of your pr
 
 <b>HW_Tools:</b> Assembler and disassembler for Simulator.
 
-========================================================================================
+<b>========================================================================================</b>
 <b>Operation System:</b>
 
 <b>HW_1. User-Mode and Kernel-Mode Processor Monitor:</b> a monitor oversees it own child’ process status and delivers information between different processers.
@@ -53,4 +53,4 @@ Each project must measure and analyze the performance and scalability of your pr
 
 <b>HW_5. I/O System DMA (Kernel-mode) device simulator:</b> keyboard device simulator in Kernel-Mode with blocking and non-blocking I/O operation.
 
-========================================================================================
+<b>========================================================================================</b>
