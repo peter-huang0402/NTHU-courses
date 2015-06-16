@@ -27,6 +27,33 @@ Each project must measure and analyze the performance and scalability of your pr
    <blockquote><blockquote><blockquote>4.3. Multi-GPU in OpenMP version:mplement program using multiple GPUs on multi nodes by OpenMP.</blockquote></blockquote></blockquote></p>
   
 <b>====================================================</b></p>
+Advance Programming Techniques and Implementation:
+
+01_Binary Search:　Uva_10341_Solve_It, Uva_714_Copying_book
+
+02_Sorting:        Uva_812_Trade_On_Verweggistan,   Uva_10125_Sumsets
+
+03_Big_Number:     Uva_623_500!, Uva_10023_Square_Root 
+
+04_Prime_Number:   Uva_294_Divisors, Uva_10140_Prime_Distance
+
+05_Simulation:     Uva_246_10-20-30. Uva_305_Joseph
+
+06_Graph_DFS:　    Uva_10608_Friends, Uva_315_Network
+
+07_EulerPath:      Uva_302_John's_Trip, Uva_10248_The_Integer_All-Time_Champ　
+
+08_SingleSource_ShortestPath:   Uva_318_Domino_Effect,   Uva_10537_Toll!_Revisited
+
+09_BFS:                         Uva_816_Abbott_Revenge,  Uva_10603_Fill
+
+10_All-pairs_Shortest_Path:　   Uva_247_Calling_Circles, Uva_10269_Advaneture_Of_Super_Mario
+
+11_Branch_And_Bound_1:          Uva_10318_Security_Panel, Uva_818_Cutting_Chains
+
+12_Branch_And_Bound_2:          Uva_10422_Knights_In_FEN, Uva_704_Colour_Hash
+
+<b>====================================================</b></p>
 <b>Computer Architecture:</b>
 
 <b>HW_1. MPIS Single Cycle Simulator:</b> Implement a single-cycle, functional processor simulator according to the reduced MIPS R3000 ISA. 
