@@ -16,18 +16,18 @@ HW_2. Single Roller Coaster Car Problem And N-body Problem</p>
   2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</p>
   2.3 Implement Barnes-Hut Algorithm by Pthread: Must parallelizing building tree phase and simulation phase</p>
 
-HW_3. Manderlbrot Set Problem: Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.
-   3.1. distributed memory in MPI 
-   3.2. shared memory in OpenMP
-   3.3. hybrid (distributed-shared) memory ( MPI + OpenMP)
+HW_3. Manderlbrot Set Problem: Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.</p>
+   3.1. distributed memory in MPI</p> 
+   3.2. shared memory in OpenMP</p>
+   3.3. hybrid (distributed-shared) memory ( MPI + OpenMP)</p>
 
-HW_4. Blocked All-Pairs Shortest Paths Algorithm in CUDA:
-   4.1. Single GPU: 
-        implement Blocked All-Pairs Shortest Paths Algorithm in CUDA.
-   4.2. Multi-GPU in MPI version: 
-        implement program using multiple GPUs on multi nodes by MPI.
-   4.3. Multi-GPU in OpenMP version: 
-        implement program using multiple GPUs on multi nodes by OpenMP.
+HW_4. Blocked All-Pairs Shortest Paths Algorithm in CUDA:</p>
+   4.1. Single GPU:</p> 
+        implement Blocked All-Pairs Shortest Paths Algorithm in CUDA.</p>
+   4.2. Multi-GPU in MPI version:</p> 
+        implement program using multiple GPUs on multi nodes by MPI.</p>
+   4.3. Multi-GPU in OpenMP version:</p> 
+        implement program using multiple GPUs on multi nodes by OpenMP.</p>
   
 ========================================================================================
 Computer Architecture:
