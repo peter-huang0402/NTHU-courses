@@ -1,9 +1,5 @@
-<style>
-a1{
-text-indent : 4em;
-}
-</style>
 
+ <blockquote><p>縮排文字</p></blockquote>
 <b># NTHU-courses</b>
 The homework and projects in NTHU
 
@@ -17,10 +13,10 @@ Each project must measure and analyze the performance and scalability of your pr
 
 <b>HW_2. Single Roller Coaster Car Problem And N-body Problem</b></p>
       <b>Single Roller Coaster Car Problem  :</b> </p>
-  <a1>2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</1></p>
+  2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</p>
   <b text-indent : 4em;>N-body Problem:</b></p>
-  <a1>2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</a1></p>
-  <a1>2.3 Implement Barnes-Hut Algorithm by Pthread: Must parallelizing building tree phase and simulation phase</a1></p>
+  2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</p>
+  2.3 Implement Barnes-Hut Algorithm by Pthread: Must parallelizing building tree phase and simulation phase</p>
 
 <b>HW_3. Manderlbrot Set Problem:</b> Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.</p>
    3.1. distributed memory in MPI</p> 
