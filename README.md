@@ -7,7 +7,7 @@ The homework and projects in NTHU
 Testing System: On Quanta cluster 11 nodes, each one has 12 processes, 96GB memory with 4TB storage space.
 Each project must measure and analyze the performance and scalability of implemented programs.
 
-<b>HW_1. Basic odd-even sort and advanced odd-even sort :</b> implementing basic and advanced odd-even sort with MPI.
+<b>HW_1. Basic odd-even sort and advanced odd-even sort :</b> implementing basic and advanced odd-even sort with MPI and parallelizing I/O actions with collective MPI-I/O.
 
 <b>HW_2. Single Roller Coaster Car Problem And N-body Problem</b></p>
       <blockquote><blockquote><blockquote><b>Single Roller Coaster Car Problem  :</b></blockquote></blockquote></blockquote></p>
