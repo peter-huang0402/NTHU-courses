@@ -14,7 +14,7 @@ Each project must measure and analyze the performance and scalability of impleme
   <blockquote><blockquote><blockquote>2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</p></blockquote></blockquote></blockquote>
   <blockquote><blockquote><blockquote><b>N-body Problem:</b></blockquote></blockquote></blockquote></p>
   <blockquote><blockquote><blockquote>2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</blockquote></blockquote></blockquote></p>
-  <blockquote><blockquote><blockquote>2.3 Implement Barnes-Hut Algorithm by Pthread: Must parallelizing building tree phase and simulation phase</blockquote></blockquote></blockquote></p>
+  <blockquote><blockquote><blockquote>2.3 Implement Barnes-Hut Algorithm by Pthread: Must <font color="red">parallelizing building tree phase</font> and simulation phase</blockquote></blockquote></blockquote></p>
 
 <b>HW_3. Manderlbrot Set Problem:</b> Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.</p>
    <blockquote><blockquote><blockquote>3.1. distributed memory in MPI</blockquote></blockquote></blockquote></p> 
