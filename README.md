@@ -5,7 +5,7 @@ The homework and projects in NTHU
 <b>Parallel Programming: (Graduate Program)</b>
 
 Testing System: On Quanta cluster 11 nodes, each one has 12 processes, 96GB memory with 4TB storage space.
-Each project <u>must measure and analyze the performance and scalability of implemented programs</u>.
+Each project must measure and analyze the performance and scalability of implemented programs.
 
 <b>HW_1. Basic odd-even sort and advanced odd-even sort :</b> implementing basic and advanced odd-even sort with MPI and parallelizing I/O actions with collective MPI-I/O.
 
