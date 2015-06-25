@@ -1,0 +1,125 @@
+CASE 1:
+
+  //####Gwrite/Gread code section start#### 
+
+    for(int i = 0; i < input_size; i++)
+
+        Gwrite(data, i, input[i]);
+
+    for(int i = input_size - 1 ; i >= input_size - 10; i--)
+
+        int value = Gread(data, i); 
+
+    //the last line of Gwrite/Gread code section should be snapshot()
+
+    snapshot(results, data, 0, input_size);
+
+    //####Gwrite/Gread code section end#### 
+
+pagefault times = 8192
+
+====================================================
+
+CASE 2:
+
+  //####Gwrite/Gread code section start#### 
+
+    for(int i = 0; i < input_size; i++)
+
+        Gwrite(data, i, input[i]);
+
+    for(int i = input_size - 1 ; i >= input_size - 32769; i--)
+
+        int value = Gread(data, i); 
+
+    //the last line of Gwrite/Gread code section should be snapshot()
+
+    snapshot(results, data, 0, input_size);
+
+    //####Gwrite/Gread code section end#### 
+
+pagefault times = 8193
+
+====================================================
+
+CASE 3: 
+
+   //####Gwrite/Gread code section start#### 
+
+    for(int i = 0; i < input_size; i++)
+
+        Gwrite(data, i, input[i]);
+
+    for(int p = 0; p < 4; p++)
+
+        for(int i = 32768 - 1 ; i >= 32768 - 10; i--)
+
+            int value = Gread(data, i+p*32768);
+
+    //the last line of Gwrite/Gread code section should be snapshot()
+
+    snapshot(results, data, 0, input_size);
+
+    //####Gwrite/Gread code section end#### 
+
+pagefault times = 8195
+
+====================================================
+
+The contents of data.bin and snapshot.bin are all the same as our sample case.
+
+GRADING:
+
+Basic: 5 points for each page fault times of testcase.
+
+After calculating Basic points, we also check if you follow our specifications and output files. If you don¡¦t follow the specifications or have incorrect output files, we will take some points off. The following conditions may reduction your points until zero:  
+
+(a) Don¡¦t follow the correct size of global memory allocation (points -5).
+
+(b) Don¡¦t follow the correct size of shared memory allocation (points -5)
+
+(c) output file error in each testcase. (points -3)
+
+(d) Cannot decompress your folder will get 0 point.
+
+(s) Get the bonus (+1.5).
+
+
+
+BONUS:
+
+
+
+  //####Gwrite/Gread code section start#### 
+
+   __LOCK();
+
+    for(int i=0; i<input_size; i++)
+
+        Gwrite(data, i, input[i+__GET_BASE()]);
+
+    __UNLOCK();
+
+  for(int i=input_size-1; i>=input_size-10; i--){
+
+      __LOCK();
+
+      int value = Gread(data, i); 
+
+      __UNLOCK();
+
+  }
+
+    //the last line of Gwrite/Gread code section should be snapshot()
+
+    __LOCK();
+
+    snapshot(results+__GET_BASE(), data, 0, input_size);
+
+
+
+    __UNLOCK();
+
+  //####Gwrite/Gread code section end#### 
+
+pagefault times = 8195
