@@ -1,5 +1,5 @@
 <b># NTHU-courses</b>
-The homework and projects in NTHU
+The homework and projects in NTHU (National Tsing Hua University)
 
 <b>====================================================</b></p>
 <b>Parallel Programming: (Graduate Program)</b>
