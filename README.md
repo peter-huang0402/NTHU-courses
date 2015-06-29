@@ -17,9 +17,9 @@ Each project must <b>measure and analyze the performance and scalability of impl
   <blockquote><blockquote><blockquote>2.3 Implement <b>Barnes-Hut Algorithm</b> by Pthread: Must <b>parallelizing building tree phase</b> and simulation phase</blockquote></blockquote></blockquote></p>
 
 <b>HW_3. Manderlbrot Set Problem:</b> Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.</p>
-   <blockquote><blockquote><blockquote>3.1. distributed memory in MPI</blockquote></blockquote></blockquote></p> 
-   <blockquote><blockquote><blockquote>3.2. shared memory in OpenMP</blockquote></blockquote></blockquote></p>
-   <blockquote><blockquote><blockquote>3.3. hybrid (distributed-shared) memory ( MPI + OpenMP)</blockquote></blockquote></blockquote></p>
+   <blockquote><blockquote><blockquote>3.1. Distributed memory in MPI</blockquote></blockquote></blockquote></p> 
+   <blockquote><blockquote><blockquote>3.2. Shared memory in OpenMP</blockquote></blockquote></blockquote></p>
+   <blockquote><blockquote><blockquote>3.3. Hybrid (distributed-shared) memory ( MPI + OpenMP)</blockquote></blockquote></blockquote></p>
 
 <b>HW_4. Blocked All-Pairs Shortest Paths Algorithm in CUDA:</b></p>
    <blockquote><blockquote><blockquote>4.1. Single GPU:implement Blocked All-Pairs Shortest Paths Algorithm in CUDA.</blockquote></blockquote></blockquote></p>
@@ -69,12 +69,12 @@ Each project must <b>measure and analyze the performance and scalability of impl
 
 <b>HW_1. User-Mode and Kernel-Mode Processor Monitor:</b> a monitor oversees it own child’ process status and delivers information between different processers.
 
-<b>HW_2. River and frog arcade game:</b> multi-thread programming with XLib
+<b>HW_2. River and Frog Arcade Game:</b> multi-thread programming with XLib
 
 <b>HW3. Virtual Memory Management in CUDA:</b> implementing GPU virtual-memory system with LRU replacement policy.
 
 <b>HW_4. File System Management in CUDA:</b> Implement a simple file system in a kernel function of GPU that have single thread, limit global memory as volume.
 
-<b>HW_5. I/O System DMA (Kernel-mode) device simulator:</b> keyboard device simulator in Kernel-Mode with blocking and non-blocking I/O operation.
+<b>HW_5. I/O System DMA (Kernel-mode) Device Simulator:</b> keyboard device simulator in Kernel-Mode with blocking and non-blocking I/O operation.
 
 <b>====================================================</b></p>
