@@ -16,7 +16,7 @@ Each project must <b>measure and analyze the performance and scalability of impl
   <blockquote><blockquote><blockquote>2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</blockquote></blockquote></blockquote></p>
   <blockquote><blockquote><blockquote>2.3 Implement <b>Barnes-Hut Algorithm</b> by Pthread: Must <b>parallelizing building tree phase</b> and simulation phase</blockquote></blockquote></blockquote></p>
 
-<b>HW_3. Manderlbrot Set Problem:</b> Implementing both the static and dynamic scheduling versions to evaluate its loading balance status.</p>
+<b>HW_3. Manderlbrot Set Problem:</b> Implementing both the "static" and "dynamic" scheduling versions to evaluate its loading balance status.</p>
    <blockquote><blockquote><blockquote>3.1. Distributed memory in MPI</blockquote></blockquote></blockquote></p> 
    <blockquote><blockquote><blockquote>3.2. Shared memory in OpenMP</blockquote></blockquote></blockquote></p>
    <blockquote><blockquote><blockquote>3.3. Hybrid (distributed-shared) memory ( MPI + OpenMP)</blockquote></blockquote></blockquote></p>
