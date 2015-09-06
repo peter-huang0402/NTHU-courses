@@ -71,7 +71,7 @@ Each project must <b>measure and analyze the performance and scalability of impl
 
 <b>HW_2. River and Frog Arcade Game:</b> multi-thread programming with XLib
 
-<b>HW3. Virtual Memory Management in CUDA:</b> implementing GPU virtual-memory system with LRU replacement policy.
+<b>HW_3. Virtual Memory Management in CUDA:</b> implementing GPU virtual-memory system with LRU replacement policy.
 
 <b>HW_4. File System Management in CUDA:</b> Implement a simple file system in a kernel function of GPU that have single thread, limit global memory as volume.
 
