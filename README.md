@@ -21,21 +21,21 @@ Each project must <b>measure and analyze the performance and scalability of impl
                 building tree phase</b> and simulation phase 
 </code></pre>
 <b>HW_3. Manderlbrot Set Problem:</b> Implementing both the "static" and "dynamic" scheduling versions to evaluate its loading balance status.</p>
-<pre><code> 
-       <b>3.1. Distributed memory in MPI</b>
-       <b>3.2. Shared memory in OpenMP</b>
-       <b>3.3. Hybrid (distributed-shared) memory ( MPI + OpenMP)</b>
+<pre>
+<code><b>3.1. Distributed memory in MPI</b>
+<b>3.2. Shared memory in OpenMP</b>
+<b>3.3. Hybrid (distributed-shared) memory ( MPI + OpenMP)</b>
 </code></pre>
 
 
 <b>HW_4. Blocked All-Pairs Shortest Paths Algorithm in CUDA:</b></p>
- <pre><code> 
-       <b>4.1. Single GPU: 
-                   implement Blocked All-Pairs Shortest Paths Algorithm in CUDA.</b>
-       <b>4.2. Multi-GPU in MPI version: 
-                   implement programs using multiple GPUs on multi nodes by MPI.</b>
-       <b>43.3 Multi-GPU in OpenMP version:
-                    mplement programs using multiple GPUs on multi nodes by OpenMP.</b>
+<pre>
+<code><b>4.1. Single GPU:</b> 
+                   implement <b>Blocked All-Pairs Shortest Paths Algorithm</b> in CUDA.
+<b>4.2. Multi-GPU in MPI version:</b> 
+                   implement programs using multiple GPUs on multi nodes by MPI.
+<b>43.3 Multi-GPU in OpenMP version:</b>
+                    mplement programs using multiple GPUs on multi nodes by OpenMP.
 </code></pre>  
 <b>====================================================</b></p>
 <b>Advance Programming Techniques and Implementation: Solve ACM & UVA problem.</b>
