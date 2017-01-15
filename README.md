@@ -15,7 +15,7 @@ Each project must <b>measure and analyze the performance and scalability of impl
            2.1 Simulate Single Roller Coaster Car action and 
                 prevent synchronization by using conditional variable or mutex lock.
            
-    <b>N-body Problem  :</b>        
+  <b>N-body Problem  :</b>        
            2.2 Parallel N-body's sequential code by using Pthread and OpenMP.
            2.3 Implement <b>Barnes-Hut Algorithm</b> by Pthread: Must <b>parallelizing
                 building tree phase</b> and simulation phase 
