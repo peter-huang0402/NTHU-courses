@@ -31,11 +31,11 @@ Each project must <b>measure and analyze the performance and scalability of impl
 <b>HW_4. Blocked All-Pairs Shortest Paths Algorithm in CUDA:</b></p>
 <pre>
 <code><b>4.1. Single GPU:</b> 
-                   implement <b>Blocked All-Pairs Shortest Paths Algorithm</b> in CUDA.
+                         implement <b>Blocked All-Pairs Shortest Paths Algorithm</b> in CUDA.
 <b>4.2. Multi-GPU in MPI version:</b> 
-                   implement programs using multiple GPUs on multi nodes by MPI.
+                         implement programs using multiple GPUs on multi nodes by MPI.
 <b>43.3 Multi-GPU in OpenMP version:</b>
-                    mplement programs using multiple GPUs on multi nodes by OpenMP.
+                         implement programs using multiple GPUs on multi nodes by OpenMP.
 </code></pre>  
 <b>====================================================</b></p>
 <b>Advance Programming Techniques and Implementation: Solve ACM & UVA problem.</b>
