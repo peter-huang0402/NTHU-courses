@@ -16,6 +16,10 @@ Each project must <b>measure and analyze the performance and scalability of impl
 <p>With multiple paragraphs.</p></li>
 <li><p>Another item in the list.</p></li>
 </ul>    
+<pre><code>&lt;blockquote&gt;
+    &lt;p&gt;For example.&lt;/p&gt;
+&lt;/blockquote&gt;
+</code></pre>
    2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</blockquote></blockquote></blockquote></p>
   <blockquote><blockquote><blockquote>2.3 Implement <b>Barnes-Hut Algorithm</b> by Pthread: Mu
   <blockquote><blockquote><blockquote><b>N-body Problem:</b></blockquote></blockquote></blockquote></p>
