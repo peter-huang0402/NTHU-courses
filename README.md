@@ -10,8 +10,13 @@ Each project must <b>measure and analyze the performance and scalability of impl
 <b>HW_1. Basic odd-even sort and advanced odd-even sort :</b> implementing basic and advanced odd-even sort with MPI and <b>parallelizing I/O actions with collective MPI-I/O</b>.
 
 <b>HW_2. Single Roller Coaster Car Problem And N-body Problem</b></p>
-      <blockquote><blockquote><blockquote><b>Single Roller Coaster Car Problem  :</b></blockquote></blockquote></blockquote></p>
-   <blockquote><blockquote><blockquote>2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</blockquote></blockquote></blockquote></p>
+      <blockquote><blockquote><blockquote><b>Single Roller Coaster Car Problem  :</b></blockquote></blockquote></blockquote></p><blockquote><blockquote><blockquote>
+   <ul>
+<li><p>A list item.</p>
+<p>With multiple paragraphs.</p></li>
+<li><p>Another item in the list.</p></li>
+</ul>    
+   2.1 Simulate Single Roller Coaster Car action and prevent synchronization by using conditional variable or mutex lock.</blockquote></blockquote></blockquote></p>
   <blockquote><blockquote><blockquote>2.3 Implement <b>Barnes-Hut Algorithm</b> by Pthread: Mu
   <blockquote><blockquote><blockquote><b>N-body Problem:</b></blockquote></blockquote></blockquote></p>
   <blockquote><blockquote><blockquote>2.2 Parallel N-body's sequential code by using Pthread and OpenMP.</blockquote></blockquote></blockquote></p>
