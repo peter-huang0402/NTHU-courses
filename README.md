@@ -10,8 +10,8 @@ Each project must <b>measure and analyze the performance and scalability of impl
 <b>HW_1. Basic odd-even sort and advanced odd-even sort :</b> implementing basic and advanced odd-even sort with MPI and <b>parallelizing I/O actions with collective MPI-I/O</b>.
 
 <b>HW_2. Single Roller Coaster Car Problem And N-body Problem</b></p>
-<pre><code> 
-       <b>Single Roller Coaster Car Problem  :</b>
+<pre>
+<code> <b>Single Roller Coaster Car Problem  :</b>
            2.1 Simulate Single Roller Coaster Car action and 
                 prevent synchronization by using conditional variable or mutex lock.
            
@@ -33,9 +33,9 @@ Each project must <b>measure and analyze the performance and scalability of impl
        <b>4.1. Single GPU: 
                    implement Blocked All-Pairs Shortest Paths Algorithm in CUDA.</b>
        <b>4.2. Multi-GPU in MPI version: 
-                   implement program using multiple GPUs on multi nodes by MPI.</b>
+                   implement programs using multiple GPUs on multi nodes by MPI.</b>
        <b>43.3 Multi-GPU in OpenMP version:
-                    mplement program using multiple GPUs on multi nodes by OpenMP.</b>
+                    mplement programs using multiple GPUs on multi nodes by OpenMP.</b>
 </code></pre>  
 <b>====================================================</b></p>
 <b>Advance Programming Techniques and Implementation: Solve ACM & UVA problem.</b>
