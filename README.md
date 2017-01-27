@@ -73,7 +73,7 @@ Each project must <b>measure and analyze the performance and scalability of impl
 
 <b>Proj_3. MIPS Cache Memory Pagetable CPU Simulator:</b> a simulator with memory hierarchy, Translation-Lookaside Buffer (TLB), virtual page table and cache mechanism with write back and write through policy. 
 
-<b>HW_Tools:</b> Assembler and disassembler for Simulator.
+<b>Proj_Tools:</b> Assembler and disassembler compiler for CPU Simulator.
 
 <b>====================================================</b></p>
 <b>Operation System:</b>
