@@ -6,4 +6,4 @@
 
 <b>Proj_3. MIPS Cache Memory Pagetable CPU Simulator:</b> a simulator with memory hierarchy, Translation-Lookaside Buffer (TLB), virtual page table and cache mechanism with write back and write through policy. 
 
-<b>Proj_Tools:</b> Assembler and disassembler compiler for CPU Simulator.
+<b>Proj_Tools:</b> Assembler and disassembler for CPU Simulator.
